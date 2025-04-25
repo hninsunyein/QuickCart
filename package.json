@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@clerk/nextjs": "^6.12.12",
+    "@clerk/nextjs": "^6.18.0-canary.v20250423205030",
     "inngest": "^3.35.1",
     "mongoose": "^8.13.1",
     "next": "15.1.6",
